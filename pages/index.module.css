@@ -1,0 +1,641 @@
+.expertsGrowts,
+.heading2 {
+  position: relative;
+  font-weight: 600;
+}
+.expertsGrowts {
+  background: linear-gradient(90.28deg, #f29217, #a6a29e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.heading2 {
+  margin: 0;
+  font-size: var(--font-size-31xl);
+  line-height: 62px;
+  font-family: var(--font-poppins);
+  text-align: center;
+}
+.fRAMEFOOTER,
+.iCONWHATSAPP {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 36px;
+  max-width: 100%;
+}
+.iCONWHATSAPP {
+  width: 758px;
+  gap: 107px;
+}
+.iCONTikTok,
+.layoutColumn {
+  width: 880px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  min-height: 519px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.layoutColumn {
+  width: 1118px;
+  min-height: 1137px;
+}
+.topExperties {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 18px;
+  font-weight: 600;
+  background: linear-gradient(91.03deg, #f48a04, rgba(82, 78, 73, 0.95));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hereAreSome,
+.weUse {
+  margin: 0;
+}
+.heading2Container,
+.textColor {
+  display: flex;
+  align-items: center;
+}
+.heading2Container {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 62px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.textColor {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 81px;
+  max-width: 100%;
+}
+.download1040ddb4d818e08d921eIcon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.backgroundColor {
+  width: 1648px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 104px;
+  max-width: 100%;
+}
+.justifyContentStart {
+  width: 1750px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  min-height: 870px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+}
+.heading21,
+.ourTopServices {
+  position: relative;
+  font-weight: 600;
+}
+.ourTopServices {
+  background: linear-gradient(90.28deg, #f29217, #a6a29e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.heading21 {
+  margin: 0;
+  font-size: var(--font-size-31xl);
+  line-height: 62px;
+  font-family: var(--font-poppins);
+  text-align: center;
+}
+.ourServicesFrame,
+.tikTokTickFrame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ourServicesFrame {
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--padding-xl);
+  gap: 114px;
+  min-height: 458px;
+  flex-shrink: 0;
+}
+.tikTokTickFrame {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 11px;
+}
+.component9Child {
+  position: absolute;
+  margin: 0 !important;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 4px solid var(--color-burlywood);
+  box-sizing: border-box;
+}
+.affiliateMarketing {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.component9,
+.headingWeWorkedWithFrame {
+  display: flex;
+  justify-content: flex-start;
+}
+.component9 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-12xl) 72px var(--padding-13xl) var(--padding-40xl);
+  background-color: transparent;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  white-space: nowrap;
+}
+.headingWeWorkedWithFrame {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sEOTextNode {
+  position: absolute;
+  margin: 0 !important;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 4px solid var(--color-burlywood);
+  box-sizing: border-box;
+}
+.accountsManagement {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.component10 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-13xl) var(--padding-12xl) var(--padding-12xl)
+    var(--padding-11xl);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  white-space: nowrap;
+}
+.aCCOUNTSMANAGEM,
+.getInTouchComponentsFrame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.getInTouchComponentsFrame {
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+}
+.aCCOUNTSMANAGEM {
+  width: 1080px;
+  justify-content: flex-end;
+}
+.facebookInstagramTikTokWha {
+  position: absolute;
+  margin: 0 !important;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 4px solid var(--color-burlywood);
+  box-sizing: border-box;
+}
+.seo {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.component11 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-12xl) 24px var(--padding-13xl) var(--padding-xl);
+  background-color: transparent;
+  width: 266px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  position: relative;
+}
+.component11Wrapper,
+.sEOComponent {
+  width: 334px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.sEOComponent {
+  width: 1784px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: 58px;
+  min-height: 781px;
+  flex-shrink: 0;
+}
+.getInTouch,
+.heading22 {
+  position: relative;
+  font-weight: 600;
+}
+.getInTouch {
+  letter-spacing: 0.5px;
+  line-height: 18px;
+  background: linear-gradient(98.08deg, #cda470 53.41%, #787273 79.69%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.heading22 {
+  margin: 0;
+  font-size: var(--font-size-31xl);
+  line-height: 62px;
+  font-family: inherit;
+}
+.homeFrame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-32xl);
+}
+.contactFrame {
+  width: 454px;
+  height: 274px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-family: var(--font-poppins);
+}
+.instagramFrameChild,
+.instagramFrameItem {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-mini);
+  max-height: 100%;
+  object-fit: cover;
+}
+.instagramFrameChild {
+  height: calc(100% - 3px);
+  bottom: 3px;
+  left: 0;
+  width: 352px;
+}
+.instagramFrameItem {
+  height: 100%;
+  bottom: 0;
+  left: 231px;
+  width: 329px;
+  z-index: 1;
+}
+.instagramFrame {
+  position: relative;
+  width: 560px;
+  height: 389px;
+  min-width: 560px;
+  max-width: 100%;
+}
+.div,
+.div1,
+.symbol {
+  position: relative;
+  line-height: 16px;
+}
+.symbol {
+  display: flex;
+  align-items: center;
+  width: 32px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.div,
+.div1 {
+  z-index: 1;
+}
+.div {
+  white-space: pre-wrap;
+  flex-shrink: 0;
+}
+.div1 {
+  white-space: nowrap;
+}
+.parent,
+.symbolParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-smi);
+  color: var(--color-black);
+  font-family: var(--font-segoe-ui);
+}
+.symbolParent {
+  flex-direction: row;
+  align-items: center;
+}
+.envelopesimple42x2f7dba547c {
+  margin: 0;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.epicinternationalofficialgmai {
+  position: relative;
+  line-height: 16px;
+  white-space: nowrap;
+}
+.envelopesimple42x2f7dba547cParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  color: var(--color-black);
+  font-family: var(--font-segoe-ui);
+}
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.stFloorMakkah {
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  max-width: 100%;
+}
+.facebookFrameInner,
+.frameParent,
+.locationText {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.locationText {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 33px;
+  box-sizing: border-box;
+  color: var(--color-black);
+  font-family: var(--font-segoe-ui);
+}
+.facebookFrameInner,
+.frameParent {
+  flex-direction: column;
+}
+.frameParent {
+  align-self: stretch;
+  gap: var(--gap-27xl);
+}
+.facebookFrameInner {
+  width: 476px;
+  padding: 0 0 17px;
+  box-sizing: border-box;
+  min-width: 476px;
+}
+.facebookFrame {
+  width: 1196px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.home,
+.socialMediaFrame {
+  display: flex;
+  text-align: left;
+}
+.socialMediaFrame {
+  width: 1388px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  min-height: 449px;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-burlywood);
+  font-family: var(--font-font-awesome-5-free);
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 70px;
+  letter-spacing: normal;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-open-sans);
+}
+@media screen and (max-width: 1200px) {
+  .textColor {
+    gap: 40px;
+  }
+  .getInTouchComponentsFrame {
+    flex-wrap: wrap;
+  }
+  .facebookFrameInner,
+  .instagramFrame {
+    flex: 1;
+  }
+  .facebookFrame {
+    flex-wrap: wrap;
+  }
+  .home {
+    gap: 35px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .heading2 {
+    font-size: var(--font-size-21xl);
+    line-height: 50px;
+  }
+  .fRAMEFOOTER {
+    gap: var(--gap-lg);
+  }
+  .iCONWHATSAPP {
+    gap: 53px;
+  }
+  .heading2Container {
+    font-size: var(--font-size-21xl);
+    line-height: 50px;
+  }
+  .textColor {
+    gap: var(--gap-xl);
+  }
+  .backgroundColor {
+    gap: 52px;
+  }
+  .heading21 {
+    font-size: var(--font-size-21xl);
+    line-height: 50px;
+  }
+  .ourServicesFrame {
+    gap: 57px;
+  }
+  .component9 {
+    padding-left: 29px;
+    padding-right: 36px;
+    box-sizing: border-box;
+  }
+  .getInTouchComponentsFrame {
+    gap: var(--gap-8xl);
+  }
+  .seo {
+    font-size: var(--font-size-7xl);
+  }
+  .sEOComponent {
+    gap: 29px;
+  }
+  .heading22 {
+    font-size: var(--font-size-21xl);
+    line-height: 50px;
+  }
+  .instagramFrame {
+    min-width: 100%;
+  }
+  .frameParent {
+    gap: 23px;
+  }
+  .facebookFrameInner {
+    min-width: 100%;
+  }
+  .home {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .expertsGrowts {
+    font-size: var(--font-size-lgi);
+  }
+  .heading2 {
+    font-size: var(--font-size-11xl);
+    line-height: 37px;
+  }
+  .iCONWHATSAPP {
+    gap: var(--gap-8xl);
+  }
+  .topExperties {
+    font-size: var(--font-size-lgi);
+    line-height: 14px;
+  }
+  .heading2Container {
+    font-size: var(--font-size-11xl);
+    line-height: 37px;
+  }
+  .backgroundColor {
+    gap: 26px;
+  }
+  .ourTopServices {
+    font-size: var(--font-size-lgi);
+  }
+  .heading21 {
+    font-size: var(--font-size-11xl);
+    line-height: 37px;
+  }
+  .ourServicesFrame {
+    gap: 28px;
+  }
+  .getInTouch,
+  .seo {
+    font-size: var(--font-size-lgi);
+  }
+  .getInTouch {
+    line-height: 14px;
+  }
+  .heading22 {
+    font-size: var(--font-size-11xl);
+    line-height: 37px;
+  }
+  .homeFrame {
+    gap: var(--gap-6xl);
+  }
+  .frameGroup {
+    gap: var(--gap-lg);
+  }
+}
